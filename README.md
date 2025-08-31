@@ -77,7 +77,7 @@ docker un -p 5000:5000 todo-app
 ```
 
 ## Screenshots
-~
+![To-Do App Screenshot](https://github.com/nauximus/todo-app/blob/main/static/todo-screenshot.png)
 
 ## CI/CD Pipeline
 - GitHub Actions workflow run tests on every push.
@@ -85,3 +85,4 @@ docker un -p 5000:5000 todo-app
 - Ready for deployment to any Docker-compatible environment.
 
 ## License
+[MIT License](https://github.com/nauximus/todo-app/blob/main/LICENSE)
